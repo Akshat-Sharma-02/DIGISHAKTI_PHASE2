@@ -163,20 +163,20 @@ This project is part of a research initiative for space weather monitoring and f
 DigiShakti - Space Weather Research Team
 
 **Team Members:**
-- Dhruv Saini
-- Lily Singhal
-- Garima Avasthi
 - Akshat Sharma
 - Lakshya Sharma
 - Deepak Singh
 - Mayank Saini
+- Dhruv Saini
+- Lily Singhal
+- Garima Avasthi
 
 
 ## 📧 Contact
 
-**Dhruv Saini**
-- 📧 Email: [sainidhruv3675@gmail.com](mailto:sainidhruv3675@gmail.com)
-- 🔗 GitHub: [https://github.com/dhruvsaini0001/DigiShakti.git](https://github.com/dhruvsaini0001/DigiShakti.git)
+**Akshat Sharma**
+- 📧 Email: [akshathsharma7913@gmail.com](mailto:akshathsharma7913@gmail.com)
+- 🔗 GitHub: [https://github.com/Akshat-Sharma-02/DIGISHAKTI_PHASE2.git](https://github.com/Akshat-Sharma-02/DIGISHAKTI_PHASE2.git)
 
 For questions or support, please open an issue on GitHub.
 
